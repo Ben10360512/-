@@ -1,4 +1,4 @@
 opencv-python-headless
 face_recognition==1.3.0
-cmake
+cmake==3.30.0
 dlib
