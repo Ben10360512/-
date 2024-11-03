@@ -91,13 +91,7 @@ pyinstaller-hooks-contrib==2024.8
 pylibsrtp==0.10.0
 pyOpenSSL==24.2.1
 pyparsing==3.1.2
-
 pythonnet==3.0.3
-
-pywebview==5.2
-pywin32==305.1
-pywin32-ctypes==0.2.3
-
 qtconsole==5.5.2
 QtPy==2.4.1
 
