@@ -10,3 +10,4 @@ pandas==2.2.2
 scikit-learn==1.5.1
 pillow==10.4.0
 xlsxwriter
+opencv-python-headless
