@@ -398,7 +398,7 @@ def show_dialog():
                 cluster = category_map[selected_category]
                 col1, col2 = st.columns([1, 3])
                 with col1:
-                    st.image(cluster[0], use_column_width=True)
+                    st.image(cluster[0], use_container_width=True)
                 with col2:
                     time_threshold = st.number_input("設定秒數篩選影片時間（秒）", min_value=0, value=1)
                     video_options = []
